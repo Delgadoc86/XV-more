@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Delgadoc86/XV-more.git/static/css/main.3141353e.css",
+    "main.js": "/Delgadoc86/XV-more.git/static/js/main.a3403a70.js",
+    "static/js/453.0fa51cd7.chunk.js": "/Delgadoc86/XV-more.git/static/js/453.0fa51cd7.chunk.js",
+    "static/media/more.png": "/Delgadoc86/XV-more.git/static/media/more.59789b8631b068913c33.png",
+    "static/media/imagen4.jpg": "/Delgadoc86/XV-more.git/static/media/imagen4.651c9715a1cace383d3a.jpg",
+    "static/media/imagen5.jpg": "/Delgadoc86/XV-more.git/static/media/imagen5.618b7ca5f25599768827.jpg",
+    "static/media/imagen3.jpg": "/Delgadoc86/XV-more.git/static/media/imagen3.6769d0d06443759e134b.jpg",
+    "static/media/imagen6.jpg": "/Delgadoc86/XV-more.git/static/media/imagen6.d8d4aa0b762c1de937dd.jpg",
+    "static/media/imagen2.jpg": "/Delgadoc86/XV-more.git/static/media/imagen2.08013a42028007f98017.jpg",
+    "static/media/imagen1.jpg": "/Delgadoc86/XV-more.git/static/media/imagen1.8b71ec0d8195e3529255.jpg",
+    "index.html": "/Delgadoc86/XV-more.git/index.html",
+    "main.3141353e.css.map": "/Delgadoc86/XV-more.git/static/css/main.3141353e.css.map",
+    "main.a3403a70.js.map": "/Delgadoc86/XV-more.git/static/js/main.a3403a70.js.map",
+    "453.0fa51cd7.chunk.js.map": "/Delgadoc86/XV-more.git/static/js/453.0fa51cd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3141353e.css",
+    "static/js/main.a3403a70.js"
+  ]
+}
